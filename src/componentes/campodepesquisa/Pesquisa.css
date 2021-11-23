@@ -1,0 +1,26 @@
+.App-input {
+    background-color: #928d8d;
+    border-radius: 30px;
+    border: none;
+    width: 370px;
+    height: 35px;
+    font-size: 15px;
+    color: white;
+}
+
+.App-input::placeholder {
+    color: white;
+    padding: 15px;
+}
+
+.App-img-loupe {
+    width: 25px;
+    height: 25px;
+    padding: 8px 20px;
+}
+
+.App-cabecalho-ajusteflex {
+    display: flex;
+}
+
+.App-cabecalho-Search{margin: 2px 0 0 20px;}

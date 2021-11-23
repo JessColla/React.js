@@ -1,0 +1,19 @@
+.App-body {
+    padding: 45px 25px 0 25px;
+    ;
+}
+
+.App-cabecalho-button-meusFilmes {
+    margin-top: 0px;
+
+}
+
+.App-cabecalho-button-titulo {
+    margin-left: 10px;
+}
+
+.App-cabecalho-titulo-meusFilmes {
+    display: flex;
+    align-items:flex-end;
+    margin-bottom: 50px;
+}

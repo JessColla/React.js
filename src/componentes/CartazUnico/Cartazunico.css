@@ -1,0 +1,35 @@
+/* .App-Cartaz-Unico { */
+
+/* max-width: 50%; */
+
+.App-Cartaz-Unico  {
+    flex: 1;
+}
+
+.App-img-CartazUnico {
+    margin-top: 15px;
+    max-width: 170px;
+    max-height: 200px;
+    border-radius: 5px;
+    margin-right: 25px;
+}
+
+.App-img-CartazUnico-texto {
+    margin: 0px;
+    font-size: 14px;
+}
+
+.App-img-CartazUnico-Nota {
+    display: flex;
+    align-items: center;
+}
+
+.App-img-CartazUnico-Star {
+    height: 15px;
+    width: 15px;
+}
+
+.App-img-CartazUnico-textoStar {
+    margin: 0;
+    margin-left: 5px;
+}

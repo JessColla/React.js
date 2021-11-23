@@ -1,0 +1,23 @@
+.App-img-Cartazcomtitulo {
+    margin-top: 30px;
+   
+    
+}
+
+.App-img-Cartazcomtitulo-texto {
+    margin: 0px;
+}
+
+.App-img-Cartazcomtitulo-Nota {
+    display: flex;
+    align-items: center;
+}
+
+.App-img-Cartazcomtitulo-Star {
+    height: 15px;
+    width: 15px;
+}
+
+.App-img-Cartazcomtitulo-textoStar {
+    margin: 0;
+}

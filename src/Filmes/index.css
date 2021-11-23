@@ -1,0 +1,39 @@
+.App-Filmes-body {
+    max-width: 300px;
+}
+
+.App-Filmes-Titulo {
+margin-bottom: 5px;
+}
+
+
+.App-Filmes-classificação {
+    display: flex;
+
+    
+}
+
+.App-Filmes-classificação-texto-Star {
+    margin-left: 10px;
+}
+
+.App-Filmes-Detalhes {
+    display: flex;
+    
+}
+
+.App-Filmes-Detalhes-button {
+    background-color: #E72F49;
+    width: 294px;
+    height: 20px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px;
+    margin: 2px
+}
+
+.App-Filmes-Detalhes-lixeira {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}

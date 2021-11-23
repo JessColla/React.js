@@ -1,0 +1,31 @@
+.App-Modal {
+    background-color: black;
+    height: 100%;
+    width: 60%;
+    padding: 50px 10px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+
+.App-Modal-Home {
+    background-color: black;
+    border-radius: 4px;
+    padding: 10px;
+    width: 250px;
+    height: 48px;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 25px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.App-Modal-Home:hover {
+    background-color: #E72E48;
+}
+
+.App-Modal-Home-P{margin-left: 20px;}
